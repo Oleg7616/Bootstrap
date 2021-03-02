@@ -149,7 +149,7 @@ h2 {
 }
 
 .my_skills {
-    margin-top: -300px;
+    margin-top: 204px;
     margin-left: 386px;
 }
 
@@ -160,13 +160,14 @@ h2 {
     margin-right: 192px;
 }
 
-.p_text {
+/*.p_text {
     margin-left: 387px;
+    margin-top: 50px;
 }
 
-.line,
+/*.line,
 .line_1 {
-    margin-top: 19,88px;
+    margin-top: 84,88px;
 }
 
 .line {
