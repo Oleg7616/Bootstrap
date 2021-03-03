@@ -148,21 +148,22 @@ h2 {
     color: #ffffff;
 }
 
-.my_skills {
-    margin-top: 204px;
-    margin-left: 386px;
-}
-
-.img_1 {
+.img1 {
     width: 555px;
     height: 450px;
     margin-top: 102px;
     margin-right: 192px;
 }
 
-/*.p_text {
-    margin-left: 387px;
-    margin-top: 50px;
+.flex-container {
+    display: flex;
+}
+
+.img_gallery_1,
+.img_1_gallery_1 {
+    width: 480px;
+    height: 480px;
+    top: 28px;
 }
 
 /*.line,
@@ -176,4 +177,6 @@ h2 {
 
 .line_1 {
     width: 445px;
+    margin-right: 386px;
+    margin-top: 19,88px;
 }
