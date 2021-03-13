@@ -171,15 +171,27 @@ h2 {
 .line_1 {
     margin-top: 84,88px;
 }
+
+.section_sixth {
+    display: grid;
+    padding: 0px;
+    margin: 0px;
+}
+
+.section_sixth img {
+    padding: 0;
+}
+
+.row_8 {
+    margin: 0;
+}
  
 .gallery_1 {
     display: flex;
     flex-direction: row;
 }
 
-.no-gutters {
-    margin-right: 0;
-    margin-left: 0;
+.block {
     margin-top: 28px;
   }
 
@@ -206,7 +218,7 @@ h2 {
     height: 55px;
 }
 
-.block {
+.section_tenth {
     margin-top: 100px;
     margin-bottom: 30px;
     background-color: #34547A;
